@@ -13,10 +13,8 @@ This work leverages state-of-the-art **deep learning methods**, requiring a stro
 ---
 
 ## 🚀 Selected Projects
-- 🧬 [Kidney Cancer Detection – Multimodal Fusion](https://github.com/your-username/kidney-cancer-detection](https://github.com/TzufLahan/Thesis))  
+- 🧬 [Kidney Cancer Detection – Multimodal Fusion](https://github.com/TzufLahan/-Kidney_Cancer_Detection-Thesis)  
   Using CT & MRI scans with late fusion, early fusion, and ensemble-based approaches.
-
-
 ---
 
 ## 🛠️ Tools & Skills
