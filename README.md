@@ -25,11 +25,6 @@ This work leverages state-of-the-art **deep learning methods**, requiring a stro
 
 ---
 
-## 📈 GitHub Stats
-![Tzuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzuf&show_icons=true&theme=default)
-
----
-
 ## 📫 Contact Me
 - ✉️ zupl1234@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tzuf](https://www.linkedin.com/in/tzuf-lahan-962b76233/))
