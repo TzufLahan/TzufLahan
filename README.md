@@ -27,7 +27,7 @@ This work leverages state-of-the-art **deep learning methods**, requiring a stro
 
 ## 📫 Contact Me
 - ✉️ zupl1234@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tzuf-lahan-962b76233/))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tzuf-lahan-962b76233/)
 
 
 
