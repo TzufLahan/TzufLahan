@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tzuf!
+# 👋 Hi, I'm Tzuf
 
 I'm a B.Sc. student in Data Engineering and an M.Sc. student and researcher working on deep learning applications for kidney cancer detection.  
 My current research focuses on **combining multiple modals** to detect **kidney cancer** using **CT and MRI scans**, exploring advanced fusion techniques in real-world clinical data.  
