@@ -1,20 +1,26 @@
 # 👋 Hi, I'm Tzuf <img src="https://flagcdn.com/w40/il.png" width="40"/>
 
-I'm a B.Sc. student in Data Engineering and an M.Sc. student and researcher working on deep learning applications for kidney cancer detection.  
-My current research focuses on **combining multiple modals** to detect **kidney cancer** using **CT and MRI scans**, exploring advanced fusion techniques in real-world clinical data.  
-This work leverages state-of-the-art **deep learning methods**, requiring a strong understanding of both **medical imaging** and the **theoretical foundations of machine learning**.
+I'm a B.Sc. Data Engineering graduate and an M.Sc. student and researcher in Information Systems Engineering, 
+with a strong focus on applied machine learning and deep learning for real-world problems.
+
+My current research focuses on **medical image analysis**, specifically the **detection of Abdominal Aortic Aneurysm (AAA)** 
+using **opportunistic CT scans of the lower spine**.  
+The work applies **deep learning–based methods** to non-targeted clinical imaging data, aiming to support early detection 
+and real-world clinical decision making.
 
 ---
 
 ## 🧠 Research Interests
 - Deep Learning for Medical Imaging
-- Multimodal Fusion (CT + MRI)
-
+- Opportunistic Screening from Clinical Data
+- Computer Vision in Healthcare
+- Multimodal & Applied Machine Learning
+- Model Training, Fine-Tuning, and Evaluation
 ---
 
 ## 🚀 Selected Projects
-- 🧬 [Kidney Cancer Detection – Multimodal Fusion](https://github.com/TzufLahan/-Kidney_Cancer_Detection-Thesis)  
-  Using CT & MRI scans with late fusion, early fusion, and ensemble-based approaches.
+- 🫀 **Abdominal Aortic Aneurysm (AAA) Detection – MSc Thesis**  
+   Deep learning–based detection of AAA from opportunistic lower-spine CT scans, focusing on applied medical image analysis and clinical relevance.
 - 🎭 [Enhancing Low-Resolution Facial Emotion Recognition via Super-Resolution](https://github.com/TzufLahan/Enhancing_Low-Resolution_Facial_Emotion_Recognition)  
   Combines face restoration (super-resolution) and emotion classification using deep CNNs. Designed for degraded or low-res facial input.
 ---
